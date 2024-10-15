@@ -1,6 +1,6 @@
 ## 🐣 Make my world! I'm Yuchaeng 🐣
 I make games!🌱 I use Unity Engine & C# now. <br>
-I love programming and games. I always study more.🐥
+I love programming and games. Always seeking to grow.🐥
 <br>
 ## 💖 Skills (& Studying)
 
