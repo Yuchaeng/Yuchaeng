@@ -4,8 +4,7 @@ I make games!<br>
 <br>
 ## 💖 Skills (& Studying)
 
-<img src="https://img.shields.io/badge/-C%23-000000?style=flat-square&logo=Csharp&logoColor=white"/> <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/-C%23-000000?style=flat-square&logo=Csharp&logoColor=white"/> <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/> <img alt="gamemaker" src ="https://img.shields.io/badge/gamemaker-000000.svg?&style=flat-square&logo=gamemaker&logoColor=white"/> <br>
 <img src="https://img.shields.io/badge/Java-8DC63F?style=flat-square&logo=csharp&logoColor=white"/> <img src="https://img.shields.io/badge/Android-34A853?style=flat-square&logo=android&logoColor=white"/> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 
 
